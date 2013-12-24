@@ -2,7 +2,7 @@ A k-palindrome is a string which transforms into a palindrome on removing at mos
 
 Example
 Input:abxa k:1
-The input is a 1-palindrome
+The input is a 1-palindrome (aba)
 
 
 Example
